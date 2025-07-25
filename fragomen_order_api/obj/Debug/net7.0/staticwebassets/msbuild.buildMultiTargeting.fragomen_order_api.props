@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\fragomen_order_api.props" />
+</Project>

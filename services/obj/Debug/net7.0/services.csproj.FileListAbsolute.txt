@@ -1,0 +1,15 @@
+C:\Users\lifa.sibiya\OneDrive\Job assessments\fragomen\fragomen_order_api\services\obj\Debug\net7.0\services.csproj.AssemblyReference.cache
+C:\Users\lifa.sibiya\OneDrive\Job assessments\fragomen\fragomen_order_api\services\obj\Debug\net7.0\services.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lifa.sibiya\OneDrive\Job assessments\fragomen\fragomen_order_api\services\obj\Debug\net7.0\services.AssemblyInfoInputs.cache
+C:\Users\lifa.sibiya\OneDrive\Job assessments\fragomen\fragomen_order_api\services\obj\Debug\net7.0\services.AssemblyInfo.cs
+C:\Users\lifa.sibiya\OneDrive\Job assessments\fragomen\fragomen_order_api\services\obj\Debug\net7.0\services.csproj.CoreCompileInputs.cache
+C:\Users\lifa.sibiya\OneDrive\Job assessments\fragomen\fragomen_order_api\services\bin\Debug\net7.0\services.deps.json
+C:\Users\lifa.sibiya\OneDrive\Job assessments\fragomen\fragomen_order_api\services\bin\Debug\net7.0\services.dll
+C:\Users\lifa.sibiya\OneDrive\Job assessments\fragomen\fragomen_order_api\services\bin\Debug\net7.0\services.pdb
+C:\Users\lifa.sibiya\OneDrive\Job assessments\fragomen\fragomen_order_api\services\bin\Debug\net7.0\Data.dll
+C:\Users\lifa.sibiya\OneDrive\Job assessments\fragomen\fragomen_order_api\services\bin\Debug\net7.0\Data.pdb
+C:\Users\lifa.sibiya\OneDrive\Job assessments\fragomen\fragomen_order_api\services\obj\Debug\net7.0\services.csproj.CopyComplete
+C:\Users\lifa.sibiya\OneDrive\Job assessments\fragomen\fragomen_order_api\services\obj\Debug\net7.0\services.dll
+C:\Users\lifa.sibiya\OneDrive\Job assessments\fragomen\fragomen_order_api\services\obj\Debug\net7.0\refint\services.dll
+C:\Users\lifa.sibiya\OneDrive\Job assessments\fragomen\fragomen_order_api\services\obj\Debug\net7.0\services.pdb
+C:\Users\lifa.sibiya\OneDrive\Job assessments\fragomen\fragomen_order_api\services\obj\Debug\net7.0\ref\services.dll
