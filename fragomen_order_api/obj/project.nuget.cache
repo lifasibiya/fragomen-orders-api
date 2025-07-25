@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "ck5bDL6FaofKyhQwSnxMHKm8A6F7gNm0kqXvls1pWLgMZZ7lS3arlEiInaJ+lmkWBUwWJh3vOKRozRVLqlInUA==",
+  "dgSpecHash": "s0YtgLBWXAeggyRD07YTx6jRG6GbWG1tm28aV0HsVLC4sH8o+Rbv0R5obcmejOaLhdEO434KqbQmh2hwfdaTiw==",
   "success": true,
   "projectFilePath": "C:\\Users\\lifa.sibiya\\OneDrive\\Job assessments\\fragomen\\fragomen_order_api\\fragomen_order_api\\fragomen_order_api.csproj",
   "expectedPackageFiles": [
@@ -86,8 +86,8 @@
     "C:\\Users\\lifa.sibiya\\.nuget\\packages\\system.threading.ratelimiting\\8.0.0\\system.threading.ratelimiting.8.0.0.nupkg.sha512",
     "C:\\Users\\lifa.sibiya\\.nuget\\packages\\system.threading.tasks.extensions\\4.6.3\\system.threading.tasks.extensions.4.6.3.nupkg.sha512",
     "C:\\Users\\lifa.sibiya\\.nuget\\packages\\system.windows.extensions\\6.0.0\\system.windows.extensions.6.0.0.nupkg.sha512",
-    "C:\\Users\\lifa.sibiya\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\7.0.14\\microsoft.windowsdesktop.app.ref.7.0.14.nupkg.sha512",
     "C:\\Users\\lifa.sibiya\\.nuget\\packages\\microsoft.netcore.app.ref\\7.0.14\\microsoft.netcore.app.ref.7.0.14.nupkg.sha512",
+    "C:\\Users\\lifa.sibiya\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\7.0.14\\microsoft.windowsdesktop.app.ref.7.0.14.nupkg.sha512",
     "C:\\Users\\lifa.sibiya\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\7.0.14\\microsoft.aspnetcore.app.ref.7.0.14.nupkg.sha512",
     "C:\\Users\\lifa.sibiya\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\7.0.14\\microsoft.netcore.app.host.win-x64.7.0.14.nupkg.sha512"
   ],

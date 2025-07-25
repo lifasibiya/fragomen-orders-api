@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "2laHBBJ04Fx5I1UHQSt/5PqsgUPAl00YDQU/b9ADWb/QBAV8CRRF9swFcNjLDx6oYSbNVbwnSCH35sxXafzQ+A==",
+  "dgSpecHash": "9NV7wSvJmeaoivMPN7Kd9mpDfl9yl2xuoaYQUSPcXm6FgKaM2kaURZYa5tZQeCNFYsljZlnQ9r3jiggIdMfBkQ==",
   "success": true,
   "projectFilePath": "C:\\Users\\lifa.sibiya\\OneDrive\\Job assessments\\fragomen\\fragomen_order_api\\OrdersTest\\OrdersTest.csproj",
   "expectedPackageFiles": [
@@ -163,8 +163,8 @@
     "C:\\Users\\lifa.sibiya\\.nuget\\packages\\system.windows.extensions\\6.0.0\\system.windows.extensions.6.0.0.nupkg.sha512",
     "C:\\Users\\lifa.sibiya\\.nuget\\packages\\system.xml.readerwriter\\4.3.0\\system.xml.readerwriter.4.3.0.nupkg.sha512",
     "C:\\Users\\lifa.sibiya\\.nuget\\packages\\system.xml.xdocument\\4.3.0\\system.xml.xdocument.4.3.0.nupkg.sha512",
-    "C:\\Users\\lifa.sibiya\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\7.0.14\\microsoft.windowsdesktop.app.ref.7.0.14.nupkg.sha512",
     "C:\\Users\\lifa.sibiya\\.nuget\\packages\\microsoft.netcore.app.ref\\7.0.14\\microsoft.netcore.app.ref.7.0.14.nupkg.sha512",
+    "C:\\Users\\lifa.sibiya\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\7.0.14\\microsoft.windowsdesktop.app.ref.7.0.14.nupkg.sha512",
     "C:\\Users\\lifa.sibiya\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\7.0.14\\microsoft.aspnetcore.app.ref.7.0.14.nupkg.sha512"
   ],
   "logs": []

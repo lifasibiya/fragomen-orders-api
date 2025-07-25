@@ -1,0 +1,24 @@
+version: '3'
+services:
+  sqlserver:
+    image: mcr.microsoft.com/mssql/server:2019-latest
+    environment:
+      SA_PASSWORD: "Password123!"
+      ACCEPT_EULA: "Y"
+    ports:
+      - "1433:1433"
+  rabbitmq:
+    image: rabbitmq:3-management
+    ports:
+      - "5672:5672"
+      - "15672:15672"
+  fragomen_order_api:
+    build: .
+    ports:
+      - "8000:80"
+    depends_on:
+      - sqlserver
+      - rabbitmq
+    environment:
+      ConnectionStrings__OrdersDb: "Data Source=.;Initial Catalog=fragomen_orders_db;Persist Security Info=True;Integrated Security=true;Encrypt=False;"
+      MassTransit__RabbitMq__Host: "rabbitmq"
